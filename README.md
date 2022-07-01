@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @christine-mendoza 
--  I am currently attending Auburn University working on a Computer Science degree. I graduate Summer 2022!
--  I am an aspiring software developer looking to break into the industry. 
 - 📫 How to reach me: ce.mendoza88@gmail.com
 
 <!---
